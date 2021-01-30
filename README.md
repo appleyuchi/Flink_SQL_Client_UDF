@@ -2,4 +2,4 @@
 |  ----  | ----  |
 |[Java UDF](Java)| [Flink SQL Client注册Java UDF完整流程](https://yuchi.blog.csdn.net/article/details/113396450)|
 |[Python UDF](Python)|[Flink SQL Client注册Python UDF完整流程](https://yuchi.blog.csdn.net/article/details/112837327)|
-|[Scala UDF](Scala)|没有搞定
+|[Scala UDF](Scala)|[Flink SQL Client注册SCALA UDF完整流程](https://yuchi.blog.csdn.net/article/details/113426020)
