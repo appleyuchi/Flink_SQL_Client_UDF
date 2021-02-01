@@ -1,0 +1,9 @@
+org/apache/zeppelin/flink/udf/JavaUpper.class
+org/apache/zeppelin/flink/udf/WeightedAvg.class
+org/apache/zeppelin/flink/udf/BrotliUDF.class
+org/apache/zeppelin/flink/udf/DateTime.class
+org/apache/zeppelin/flink/udf/Test.class
+org/apache/zeppelin/flink/udf/Top2Accum.class
+org/apache/zeppelin/flink/udf/WeightedAvgAccum.class
+org/apache/zeppelin/flink/udf/JavaSplit.class
+org/apache/zeppelin/flink/udf/Top2.class
